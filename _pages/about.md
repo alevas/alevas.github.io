@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Machine Learning Engineer at <a href='https://www.35up.com/'>35up</a>
 
 profile:
   align: right
@@ -15,7 +15,6 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Machine Learning Engineer at <a href='https://www.35up.com/'>35up</a>. \\
 Made in Greece, living in Berlin.\\
 <a href='https://www.tu.berlin/'>TU Berlin</a> MSc\\
 <a href='https://www.aueb.gr/'>AUEB</a> BSc
