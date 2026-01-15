@@ -106,7 +106,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("alevatorbsky.social", "_blank");
+          window.open("alevator.bsky.social", "_blank");
         },
       },{
         id: 'social-email',
