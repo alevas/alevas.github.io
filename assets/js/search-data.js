@@ -102,6 +102,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("alevatorbsky.social", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -135,6 +142,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://open.spotify.com/user/21ontqm4lv3jydmbkrtpwqcci", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://web.ml.tu-berlin.de/author/alex-vasileiou/", "_blank");
         },
       },{
       id: 'light-theme',
