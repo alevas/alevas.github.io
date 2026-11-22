@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Alexandros (Alex)
 middle_name:
 last_name: Vasileiou
 contact_note: >
   Preferable contact method: <a href="mailto:vasileiou.a@gmx.de">Email</a>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  PhD student at TU Berlin and BIFOLD working on explainable AI for language models and digital humanities.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -193,16 +193,8 @@ exclude:
   - Gemfile.lock
   - INSTALL.md
   - LICENSE
-  - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
-  - _pages/news.md
-  - _pages/dropdown.md
-  - _pages/profiles.md
-  - _pages/teaching.md
-  - _pages/projects.md
-  - _pages/cv.md
   - purgecss.config.js
   - README.md
   - readme_preview/

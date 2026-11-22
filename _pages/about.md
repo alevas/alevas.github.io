@@ -29,3 +29,5 @@ Ex-ML Engineer, leveraging explainability methods for Deep Learning transparency
 - Large Language Models
 - Natural Language Processing
 - Digital Humanities
+
+Teaching: [Julia Programming for Machine Learning](https://juml-tub.github.io/julia-ml-course/) at TU Berlin, see [teaching](/teaching/).
