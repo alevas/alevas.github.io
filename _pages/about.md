@@ -25,7 +25,8 @@ Made in Greece, living in Berlin.\\
 <a href='https://www.tu.berlin/'>TU Berlin</a> MSc\\
 <a href='https://www.aueb.gr/'>AUEB</a> BSc
 
-Ex-ML Engineer, leveraging explainability methods for Deep Learning transparency. 
+Ex-ML Engineer, leveraging explainability methods for Deep Learning transparency.
+
 - Large Language Models
 - Natural Language Processing
 - Digital Humanities
